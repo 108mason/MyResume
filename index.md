@@ -275,32 +275,60 @@
           <div class="row">
             <div class="col-md-6">
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-                  <figure class="cc-effect"><img src="images/project-1.jpg" alt="Image"/>
+                  <figure class="cc-effect"><img src="images/General.png" alt="Image"/>
                     <figcaption>
-                      <div class="h4">Recent Project</div>
+                      <div class="h4">Axia Landing Page</div>
                       <p>Web Development</p>
                     </figcaption>
                   </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
+                      <figure class="cc-effect"><img src="images/todo.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Todo List App</div>
+                          <p>Web Development</p>
+                        </figcaption>
+                      </figure></a></div>
+                      <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
+                          <figure class="cc-effect"><img src="images/Weatherapp.png" alt="Image"/>
+                            <figcaption>
+                              <div class="h4">Weather API App</div>
+                              <p>Web Development</p>
+                            </figcaption>
+                          </figure></a></div>
+                          <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
+                              <figure class="cc-effect"><img src="images/Chatapp.png" alt="Image"/>
+                                <figcaption>
+                                  <div class="h4">Chat App</div>
+                                  <p>Web Development</p>
+                                </figcaption>
+                              </figure></a></div>
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-                  <figure class="cc-effect"><img src="images/project-2.jpg" alt="Image"/>
+                  <figure class="cc-effect"><a href="https://github.com/108mason/FullStackTestAutomationProject"><img src="images/nopCommerce.png" alt="Image"/></a>
                     <figcaption>
-                      <div class="h4">Startup Project</div>
-                      <p>Web Development</p>
+                      <div class="h4">Automation Course Final Project</div>
+                      <p>Full Stack Automation</p>
                     </figcaption>
                   </figure></a></div>
             </div>
             <div class="col-md-6">
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-                  <figure class="cc-effect"><img src="images/project-3.jpg" alt="Image"/>
+                  <figure class="cc-effect"><img src="images/AxiaChanting.png" alt="Image"/>
                     <figcaption>
-                      <div class="h4">Food Order Project</div>
+                      <div class="h4">Axia Landing Page</div>
                       <p>Web Development</p>
                     </figcaption>
                   </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
+                      <figure class="cc-effect"><img src="images/KKL.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Kakal</div>
+                          <p>Web Development</p>
+                        </figcaption>
+                      </figure></a></div>
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-                  <figure class="cc-effect"><img src="images/project-4.jpg" alt="Image"/>
+                  <figure class="cc-effect"><img src="images/Go2films.png" alt="Image"/>
                     <figcaption>
-                      <div class="h4">Web Advertising Project</div>
+                      <div class="h4">Go2films</div>
                       <p>Web Development</p>
                     </figcaption>
                   </figure></a></div>
@@ -308,7 +336,7 @@
           </div>
         </div>
       </div>
-      <div class="tab-pane" id="graphic-design" role="tabpanel">
+      <!-- <div class="tab-pane" id="graphic-design" role="tabpanel">
         <div class="ml-auto mr-auto">
           <div class="row">
             <div class="col-md-6">
@@ -345,8 +373,8 @@
             </div>
           </div>
         </div>
-      </div>
-      <div class="tab-pane" id="Photography" role="tabpanel">
+      </div> -->
+      <!-- <div class="tab-pane" id="Photography" role="tabpanel">
         <div class="ml-auto mr-auto">
           <div class="row">
             <div class="col-md-6">
@@ -383,7 +411,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </div>
